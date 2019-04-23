@@ -2,4 +2,4 @@
 
 层叠布局
 
-![Screenshot.png](https://static.lidong.me/upload/rb0c97IBG.png)
+<img src="https://static.oonnnoo.com/upload/rb0c97IBG.png" width="300" title="screenshot"/>

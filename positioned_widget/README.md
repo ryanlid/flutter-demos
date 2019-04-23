@@ -2,4 +2,4 @@
 
 定位组件
 
-![Screenshot.png](https://static.lidong.me/upload/-PCT5wcdy.png)
+<img src="https://static.oonnnoo.com/upload/-PCT5wcdy.png" width="300" title="screenshot"/>

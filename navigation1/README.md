@@ -2,4 +2,4 @@
 
 导航示例
 
-![nav.gif](https://static.lidong.me/upload/HnrAOW7DJ.gif)
+<img src="https://static.oonnnoo.com/upload/HnrAOW7DJ.gif" width="300" title="nav.gif"/>

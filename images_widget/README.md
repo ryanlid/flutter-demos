@@ -1,3 +1,3 @@
 # images_widget
 
-![Screenshot.png](https://static.lidong.me/upload/PYiKJlvcg.png)
+<img src="https://static.oonnnoo.com/upload/PYiKJlvcg.png" width="300" title="screenshot"/>

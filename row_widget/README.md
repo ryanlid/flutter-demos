@@ -4,4 +4,4 @@
 
 灵活的布局 Expanded
 
-![Screenshot.png](https://static.lidong.me/upload/yjV1foMV5.png)
+<img src="https://static.oonnnoo.com/upload/yjV1foMV5.png" width="300" title="screenshot"/>
